@@ -1,0 +1,17 @@
+<NodeTypeMap>
+	<Node>
+		<Name>MIC4</Name>
+		<IP>192.168.1.100</IP>
+		<Type>0</Type>
+		<Type>1</Type>
+		<Type>2</Type>
+		<Type>3</Type>
+	</Node>
+	<Node>
+		<Name>MIC2</Name>
+		<IP>192.168.1.102</IP>
+		<Type>2</Type>
+	</Node>
+</NodeTypeMap>
+
+

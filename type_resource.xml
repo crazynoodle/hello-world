@@ -1,0 +1,75 @@
+<Type_Resource>
+<Type>
+	<TypeSeq>0</TypeSeq>
+	<Prior>0</Prior>
+	<Resource>
+		<File>/disk1/aes/block/en_X_dic_1.dat</File>
+		<File>/disk1/aes/block/en_X_dic_2.dat</File>
+		<File>/disk1/aes/block/en_X_dic_3.dat</File>
+		<File>/disk1/aes/block/en_X_dic_4.dat</File>
+		<File>/disk1/aes/block/en_X_dic_5.dat</File>
+		<File>/disk1/aes/block/en_X_dic_6.dat</File>
+		<File>/disk1/aes/block/en_X_dic_7.dat</File>
+		<File>/disk1/aes/block/en_X_dic_8.dat</File>
+		<File>/disk1/aes/block/en_X_dic_9.dat</File>
+		<File>/disk1/aes/block/en_X_dic_10.dat</File>
+		<Machine>MIC</Machine>
+	</Resource>
+</Type>
+<Type>
+	<TypeSeq>1</TypeSeq>
+	<Prior>0</Prior>
+	<Resource>
+		<File>/disk1/aes/block/en_X_dic_11.dat</File>
+		<File>/disk1/aes/block/en_X_dic_12.dat</File>
+		<File>/disk1/aes/block/en_X_dic_13.dat</File>
+		<File>/disk1/aes/block/en_X_dic_14.dat</File>
+		<File>/disk1/aes/block/en_X_dic_15.dat</File>
+		<File>/disk1/aes/block/en_X_dic_16.dat</File>
+		<File>/disk1/aes/block/en_X_dic_17.dat</File>
+		<File>/disk1/aes/block/en_X_dic_18.dat</File>
+		<File>/disk1/aes/block/en_X_dic_19.dat</File>
+		<File>/disk1/aes/block/en_X_dic_20.dat</File>
+		<Machine>MIC</Machine>
+	</Resource>
+</Type>
+<Type>
+	<TypeSeq>2</TypeSeq>
+	<Prior>0</Prior>
+	<Resource>
+		<File>/disk1/aes/block/en_X_dic_21.dat</File>
+		<File>/disk1/aes/block/en_X_dic_22.dat</File>
+		<File>/disk1/aes/block/en_X_dic_23.dat</File>
+		<File>/disk1/aes/block/en_X_dic_24.dat</File>
+		<File>/disk1/aes/block/en_X_dic_25.dat</File>
+		<File>/disk1/aes/block/en_X_dic_26.dat</File>
+		<File>/disk1/aes/block/en_X_dic_27.dat</File>
+		<File>/disk1/aes/block/en_X_dic_28.dat</File>
+		<File>/disk1/aes/block/en_X_dic_29.dat</File>
+		<File>/disk1/aes/block/en_X_dic_30.dat</File>
+		<Machine>MIC</Machine>
+	</Resource>
+</Type>
+<Type>
+	<TypeSeq>3</TypeSeq>
+	<Prior>0</Prior>
+	<Resource>
+		<File>/disk1/aes/block/en_X_dic_31.dat</File>
+		<File>/disk1/aes/block/en_X_dic_32.dat</File>
+		<File>/disk1/aes/block/en_X_dic_33.dat</File>
+		<File>/disk1/aes/block/en_X_dic_34.dat</File>
+		<File>/disk1/aes/block/en_X_dic_35.dat</File>
+		<File>/disk1/aes/block/en_X_dic_36.dat</File>
+		<File>/disk1/aes/block/en_X_dic_37.dat</File>
+		<Machine>MIC</Machine>
+	</Resource>
+</Type>
+<Type>
+	<TypeSeq>4</TypeSeq>
+	<Prior>0</Prior>
+	<Resource>
+		<File>f2</File>
+		<Machine>GPU</Machine>
+	</Resource>
+</Type>
+</Type_Resource>

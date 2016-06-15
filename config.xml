@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<Config>
+	<Head>
+		<Version>4.00</Version>
+		<Machine>MIC2</Machine>
+		<TaskPath>recvGPR/</TaskPath>
+		<ResultPath>result/</ResultPath>
+	</Head>
+	<SchedulerNode>
+		<IP>192.168.1.100</IP>
+		<Cycles>
+			<SchedulerTimeSlice>4</SchedulerTimeSlice>
+			<DisconnectTimeSlice>20</DisconnectTimeSlice>
+			<TaskLostTimeSLice>600</TaskLostTimeSLice>
+			<RedispachCycle>5</RedispachCycle>
+		</Cycles>
+		<QueueLength>
+			<TaskQueueMaxLen>12800</TaskQueueMaxLen>
+			<ResultQueueMaxLen>6400</ResultQueueMaxLen>
+			<LoginQueueMaxLen>8000</LoginQueueMaxLen>
+			<NodeGroup>4</NodeGroup>
+			<NodePerGroup>2000</NodePerGroup>
+		</QueueLength>
+	</SchedulerNode>
+	<ComputeNode>
+		<CaculateThreadNum>2</CaculateThreadNum>
+		<TryConnectTime>20</TryConnectTime>
+		<HeartBeatTimeSlice>10</HeartBeatTimeSlice>
+		<TaskQueuePerComputeNode>90</TaskQueuePerComputeNode>
+	</ComputeNode>
+</Config>
